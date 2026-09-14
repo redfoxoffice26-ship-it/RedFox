@@ -1,0 +1,7 @@
+{
+  "name": "RED FOX Footwear",
+  "description": "Bold, athletic, and premium footwear e-commerce store with high-performance shoes, category filters, interactive cart, product details, and seamless checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
